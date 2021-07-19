@@ -12,17 +12,26 @@ nav {
     /* width: 70rem;
     height: auto; */
     background-color: #fceae8;
-    border-radius: 12px;
+    border-radius: .75rem;
 }
 .panda-catagory-bg-watch {
     background-color: #ffa500;
-    border-radius: 12px;
+    border-radius: .75rem;
 }
 .panda-catagory-bg-bag {
     background-color: #da70d6;
-    border-radius: 12px;
+    border-radius: .75rem;
 }
 .panda-catagory-bg-shoes {
     background-color: #0000ff;
-    border-radius: 12px;
+    border-radius: .75rem;
+}
+button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.panda-radius {
+    border-radius: .75rem;
+}
+.panda-margin {
+    margin-top: 100px;
 }
