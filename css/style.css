@@ -1,6 +1,15 @@
+*html {
+    font-size: 16px;
+}
+
 nav {
-    width: 70rem;
-    height: 3.625rem;
+    /* width: 70rem;
+    height: 3.625rem; */
     margin: 0 auto;
     padding: .5rem 1rem;
+}
+.panda-carousel {
+    /* width: 70rem;
+    height: auto; */
+    background-color: #fceae8;
 }
