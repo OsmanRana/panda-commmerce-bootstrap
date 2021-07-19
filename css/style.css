@@ -1,6 +1,6 @@
-*html {
+/* *html {
     font-size: 16px;
-}
+} */
 
 nav {
     /* width: 70rem;
@@ -12,4 +12,17 @@ nav {
     /* width: 70rem;
     height: auto; */
     background-color: #fceae8;
+    border-radius: 12px;
+}
+.panda-catagory-bg-watch {
+    background-color: #ffa500;
+    border-radius: 12px;
+}
+.panda-catagory-bg-bag {
+    background-color: #da70d6;
+    border-radius: 12px;
+}
+.panda-catagory-bg-shoes {
+    background-color: #0000ff;
+    border-radius: 12px;
 }
